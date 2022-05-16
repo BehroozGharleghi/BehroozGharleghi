@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BehroozGharleghi
 - 👀 I’m interested in data analytics and business intelligence
 - 🌱 I’m currently working on time series and panel data sets and apply various analytical tools to get specific insights from the data
-- 💞️ I’m looking to collaborate on data analytics and business intelligence projects
+- 💞️ I’m looking to collaborate in data analytics and business intelligence projects
 - 📫 You can reach me via email: gharleghi.bn@gmail.com 
 
 <!---
